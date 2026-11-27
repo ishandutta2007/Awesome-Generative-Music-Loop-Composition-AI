@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI"><img src="https://img.shields.io/badge/Awesome-Generative%20Music-8A2BE2?style=for-the-badge&logo=awesomelists" alt="Awesome List"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI?style=for-the-badge&color=gold" alt="GitHub stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI?style=for-the-badge&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI/graphs/contributors"><img src="https://img.shields.io/github/contributors/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI?style=for-the-badge&color=brightgreen" alt="Contributors" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -29,6 +32,7 @@ Whether you are an electronic music producer looking for infinite seamless audio
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🎯 Choosing the Right Tool: Decision Matrix](#-choosing-the-right-tool-decision-matrix)
 - [🛠️ How to Contribute](#️-how-to-contribute)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 - [💖 Support & Community](#-support--community)
 
@@ -127,6 +131,12 @@ We welcome additions, updates, and benchmark insights from the music AI communit
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Generative-Music-Loop-Composition-AI&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer
 
 *Company valuations, product pricing tiers, and GitHub star counts reflect publicly available data as of late 2026 and may evolve over time. All product names, logos, and brands are property of their respective owners. Inclusion in this list does not constitute an official endorsement.*
@@ -135,7 +145,17 @@ We welcome additions, updates, and benchmark insights from the music AI communit
 
 ## 💖 Support & Community
 
-If you found this curated list helpful for your music production or AI audio research, please consider giving it a ⭐ star!
+A huge **Thank You** to all researchers, developers, sound designers, and musicians contributing to and advancing generative music technology!
+
+If you find this curated collection helpful:
+- ⭐ **Star** this repository to help others discover it
+- 🍴 **Fork** and contribute your own tools, models, and workflows
+- 📢 **Share** it with fellow beatmakers, audio engineers, and AI enthusiasts
+- ☕ **Support the maintainer**: If you'd like to support continued maintenance and curation of open-source resources, consider [sponsoring or buying a coffee via the GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" /></a>
+</p>
 
 <p align="center">
   <b>Curated with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a></b>
